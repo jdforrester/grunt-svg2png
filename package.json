@@ -25,11 +25,7 @@
     "main": "Gruntfile.js",
 
     "scripts": {
-        "test": "grunt test"
-    },
-
-    "dependencies": {
-        "phantomjs-prebuilt": "2.1.5"
+        "test": "npm install phantomjs-prebuilt --phantomjs_cdnurl=http://cnpmjs.org/downloads && grunt test"
     },
 
     "devDependencies": {
