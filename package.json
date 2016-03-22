@@ -29,7 +29,7 @@
     },
 
     "dependencies": {
-        "phantomjs-prebuilt": "git://github.com/paladox/phantomjs.git#a1b33d9164c7c25671c962c7fc717a34ae4923f4"
+        "phantomjs-prebuilt": "git://github.com/paladox/phantomjs.git#451078586d8975f9039ad3dc529b9862630e2305"
     },
 
     "devDependencies": {
