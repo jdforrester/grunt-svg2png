@@ -25,7 +25,7 @@
     "main": "Gruntfile.js",
 
     "scripts": {
-        "install": "npm install phantomjs-prebuilt@2.1.6 --phantomjs_cdnurl=https://github.com/paladox/phantomjs/releases/download/2.1.7"
+        "install": "npm install phantomjs-prebuilt@2.1.6 --phantomjs_cdnurl=https://github.com/paladox/phantomjs/releases/download/2.1.7",
         "test": "grunt test"
     },
 
